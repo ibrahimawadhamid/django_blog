@@ -1,4 +1,4 @@
 Django==3.2.3
 django-crispy-forms==1.11.2
-environ==1.0
+django-environ==0.4.5
 Pillow==8.2.0
